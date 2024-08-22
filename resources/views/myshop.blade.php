@@ -10,7 +10,7 @@
    <div class="card-body">
 
    <u1>
-       <li>ที่อยู่: {{$address}}</li>
+       <li>ที่อยู่1: {{$address}}</li>
        <li>เบอร์โทร:{{$mobilephone}}</li>
        <li>ที่ตั้งร้าน:{{$location}}</li>
    </u1>
